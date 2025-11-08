@@ -1,0 +1,62 @@
+baseURL = "https://example.com/"
+languageCode = "zh-cn"
+title = "Cazero's blog"
+theme = "LoveIt"
+
+[module]
+  [module.hugoVersion]
+    min = "0.128.0"
+
+[params]
+  defaultTheme = "auto"
+  title = "Cazero's blog"
+  description = "technology and life"
+
+  [params.author]
+    name = "Cazero"
+
+  [params.header]
+    [params.header.title]
+      name = "Cazero's blog"
+
+  [params.footer]
+    enable = true
+    hugo = true
+    copyright = true
+    author = true
+    since = 2024
+
+  [params.home.profile]
+    enable = true
+    title = "Cazero"
+    subtitle = "SEU CS · AI / ML · 生活记录"
+    typeit = true
+    avatarURL = ""   # 你可以放一个头像URL
+
+  [params.home.posts]
+    enable = true
+    paginate = 6
+
+  # ✅ 你只需要的社交链接
+  [params.social]
+    GitHub = "https://github.com/CazeroZ"
+    Youtube = "https://www.youtube.com/@zelretchCazero"
+    Bilibili = "https://space.bilibili.com/1441041075"
+    X = "https://x.com/ZCazero34211"
+
+  # ✅ 文章页面的常规设置
+  [params.page]
+    twemoji = false
+    lightgallery = false
+
+    [params.page.toc]
+      enable = true
+      auto = true
+
+    [params.page.code]
+      copy = true
+      maxShownLines = 50
+
+    [params.page.code.render]
+      goat = true
+      mermaid = true
