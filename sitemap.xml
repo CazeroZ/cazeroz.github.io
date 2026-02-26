@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-11-08T20:47:58&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-11-08T20:47:58&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/first_post/</loc><lastmod>2025-11-08T20:47:58&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc></url><url>
-            <loc>http://localhost:1313/tags/</loc></url></urlset>
+            <loc>https://cazeroz.github.io/</loc><lastmod>2026-02-26T21:42:07&#43;08:00</lastmod></url><url>
+            <loc>https://cazeroz.github.io/posts/</loc><lastmod>2026-02-26T21:42:07&#43;08:00</lastmod></url><url>
+            <loc>https://cazeroz.github.io/posts/sync-test-2026-02-26/</loc><lastmod>2026-02-26T21:42:07&#43;08:00</lastmod></url><url>
+            <loc>https://cazeroz.github.io/categories/</loc></url><url>
+            <loc>https://cazeroz.github.io/tags/</loc></url></urlset>
