@@ -1,6 +1,6 @@
 +++
 date = '2025-11-08T20:47:58+08:00'
-draft = true
+draft = false
 title = 'wsl ubuntu reverse-search 按tab卡住'
 +++
 
